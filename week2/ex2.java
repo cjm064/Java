@@ -6,10 +6,10 @@ public class ex2 {
 		 
 		 Scanner sc = new Scanner(System.in);
 		 
-		 System.out.printf("Ã¹¹øÂ° Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ");
+		 System.out.printf("ì²«ë²ˆì§¸ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš” : ");
 		 int num1 = sc.nextInt();
 		 
-		 System.out.printf("µÎ¹øÂ° Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ");
+		 System.out.printf("ë‘ë²ˆì§¸ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš” : ");
 		 int num2 = sc.nextInt();
 		 
 		 int sum = num1 + num2 ;
